@@ -35,6 +35,7 @@ public class CollectionDemo {
 					System.out.println(a[i]+" is the unique number.");
 System.out.println(a[i]+" is the unique number.");
 System.out.println(a[i]+" is the unique number.");
+//jasdjasdjashdhsdhjshdjksadjhksjhd
 				}
 			}
 			
